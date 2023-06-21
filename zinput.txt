@@ -1,0 +1,188 @@
+startcompile
+ ** Declarations & Assignment
+int a , b ;
+int b ;
+int d, temp1, temp2 <<- 45 , temp3 <<- 50 ;
+int marks <<-45.5;
+write ( marks );
+a <<- 50;
+intpointint c1 , c2 <<- -9, c11;
+intpointint dff <<- -8.9;
+letters CSE_3201 , CSE_3211 <<- 'Compiler Design' , CSE_3207 <<- 'Applied Statistics' ;
+
+* Array Declarations & Assignment
+Here Declaration and Assingment cannot be done at the same time *
+int dimention roll<7> ;
+intpointint dimention ct_marks<7> ;
+roll<0> <<- 1 , roll<1> <<- 2 ;
+
+write ( roll<0>|| 'Wahida
+Mahjabin' || a );
+write ( temp2 );
+/nl/
+/nl/
+* read ( d );
+read ( c11 );
+write( d ); *
+/nl/
+/nl/
+ct_marks<0> <<- 57 , ct_marks<1> <<- 56.03  ;
+write( ct_marks<0> );
+
+
+** Mathematical Expressions
+int test1;
+test1 <<- 4 add 2 into 3 add 10 div 2;
+write ( test1 ) ; 
+/nl/
+write  ( 5 mod 3 sub 20 ) ; 
+/nl/
+write ( 2 power 3 power 2 ) ;
+/nl/
+write ( abs -405.789 ) ;
+/nl/
+write ( fact (2 add 3) ) ;
+/nl/
+write ( fact (roll<2>)) ;
+
+
+** Increment Expressions
+int b1 , b2 ;
+b1 <<- a up ;
+b2 <<- up a ;
+write (a);
+/nl/
+write(b1);
+/nl/
+write(b2);
+/nl/
+
+** Decrement Expressions
+
+c1 <<- a low ;
+c2 <<- low a ;
+write(a);
+/nl/
+write(c1);
+/nl/
+write(c2);
+
+** Relational Expressions
+write( 1 g 3 ) ;
+/nl/
+write(1 le 3 ) ;
+/nl/
+write( 67 ee 67 ) ;
+/nl/
+write( 67 ne 67 ) ;
+
+** Logical Expressions
+
+write( 3 or (1 g 3) ) ;
+/nl/
+write( (1 l 3) and 0 ) ;
+/nl/
+write( not 0 ) ;
+/nl/
+
+
+
+**IF_ELSE STATEMENTS
+**nested if/else
+whether < 1 l 3 > {
+whether < not 0 >
+{
+write(c1);
+}
+orif < 2 g 1 > {
+write ( 'its an or if statement');
+}
+else {
+write('inside else');
+};
+};
+
+**if/else and loops together
+whether < 1 l 3 > {
+int whileloop <<- 9;
+until < whileloop ge 3 > {
+write ( ' testing the while loop' );
+};
+};
+
+
+**SWITCH/CASE statements with ifelse and loops
+match 5 : {
+option 5 : {
+write('checking');
+/nl/
+}
+option 5.7 : {
+whether < not 0 >{
+write('checking2');
+};
+/nl/
+}
+option 'abc' : {
+int whileloop <<- 9;
+until < whileloop ge 3 > {
+write ( ' testing the while loop' );
+/nl/
+};
+}
+finaloption: {
+write('default checking');
+/nl/
+}
+};
+/nl/
+write( ' switch ends here ' );
+
+
+
+ **for loop
+till < a <<- 1 || a le 10 || a++ > {
+write(a);
+/nl/
+int lab <<- 4;
+whether < 1 l 3 > {
+whether < not 0 >
+{
+write(c1);
+/nl/
+}
+orif < 2 g 1 > {
+write ( 'its an or if statement');
+}
+else {
+write('inside else');
+/nl/
+};
+write ( 'Basic  Test' ); } ;
+/nl/
+};
+**while loop
+/nl/
+int whileloop <<- 9;
+until < whileloop ge 3 > {
+write ( ' testing the while loop' );
+/nl/
+};
+**do while loop
+/nl/
+repeat {
+write ( ' testing the dowhile loop' );
+/nl/
+until < whileloop ge 3 > {
+write ( ' testing the while loop inside the do/while loop' );
+};
+} until < whileloop ge 3 > ;
+**range for loop
+/nl/
+
+till < range 1 || 5 > {
+write('abc');
+};
+
+
+endcompile

@@ -1,0 +1,187 @@
+
+Single Line Comment: ** Declarations & Assignment
+
+Successful Integer Declaration.
+
+Successful Declaration
+b already declared
+Successful Integer Declaration.
+
+Successful Declaration
+Successful Integer Declaration.
+
+Successful Declaration
+Successful Integer Declaration.
+
+Successful Declaration
+Integer Variable, marks = 45
+Successful Assignment
+c2 variable double declaredSuccessful Real Number Declaration.
+
+Successful Declaration
+Successful Real Number Declaration.
+
+Successful Declaration
+Successful Text Declaration.
+
+Successful Declaration
+
+Multi Line Comment: * Array Declarations & Assignment
+Here Declaration and Assingment cannot be done at the same time *
+
+14th variable * Array Declarations & Assignment
+Here Declaration and Assingment cannot be done at the same time * is being declared!
+Successful Integer Array Declaration.
+
+Successful Declaration
+Successful Real Array Declaration.
+
+Successful Declaration
+
+Successful Assignment
+1.000000Wahida
+Mahjabin 
+Integer Variable, a = 50Integer Variable, temp2 = 45
+
+
+Multi Line Comment: * read ( d );
+read ( c11 );
+write( d ); *
+
+
+
+
+Successful Assignment
+57.000000
+Single Line Comment: ** Mathematical Expressions
+
+Successful Integer Declaration.
+
+Successful Declaration
+
+Successful Assignment
+Integer Variable, test1 = 15
+-18.000000
+64.000000
+405.789000
+factorial is 0120.000000
+1.000000
+Single Line Comment: ** Increment Expressions
+
+Successful Integer Declaration.
+
+Successful Declaration
+
+Successful Assignment
+
+Successful Assignment
+Integer Variable, a = 52
+Integer Variable, b1 = 50
+Integer Variable, b2 = 52
+
+Single Line Comment: ** Decrement Expressions
+
+
+Successful Assignment
+
+Successful Assignment
+Integer Variable, a = 50
+Real Variable, c1 = 52.000000
+Real Variable, c2 = 50.000000
+Single Line Comment: ** Relational Expressions
+
+0.000000
+1.000000
+1.000000
+0.000000
+Single Line Comment: ** Logical Expressions
+
+1.000000
+0.000000
+1.000000
+
+Single Line Comment: **IF_ELSE STATEMENTS
+
+
+Single Line Comment: **nested if/else
+
+Real Variable, c1 = 52.000000Inside If Block
+whole string matchedits an or if statement 
+Inside elseif Block
+inside else 
+Inside If Block
+whole string matched
+Single Line Comment: **if/else and loops together
+
+Successful Integer Declaration.
+
+Successful Declaration
+ testing the while loop 
+while loop will be executed
+Inside If Block
+whole string matched
+Single Line Comment: **SWITCH/CASE statements with ifelse and loops
+
+checking 
+
+5 matchedchecking2 
+Inside If Block
+whole string matched
+whileloop is already declared!
+Successful Integer Declaration.
+
+Successful Declaration
+ testing the while loop 
+
+while loop will be executed
+string case from switch casedefault checking 
+
+default case from switch case
+ switch ends here  
+
+Single Line Comment: **for loop
+
+++Integer Variable, a = 1
+Successful Integer Declaration.
+
+Successful Declaration
+Real Variable, c1 = 52.000000
+Inside If Block
+whole string matchedits an or if statement 
+Inside elseif Block
+inside else 
+
+Basic  Test 
+Inside If Block
+whole string matched
+initializer value 8037752, condition value 1.000000, inc/dec/operation value 1.000000
+inside for loop
+Single Line Comment: **while loop
+
+
+whileloop is already declared!
+Successful Integer Declaration.
+
+Successful Declaration
+ testing the while loop 
+
+while loop will be executed
+
+Single Line Comment: **do while loop
+
+
+ testing the dowhile loop 
+
+ testing the while loop inside the do/while loop 
+while loop will be executed
+do while loop iteration
+dowhile loop will be executed again
+
+Single Line Comment: **range for loop
+
+
+abc 
+range for loop
+range for loop ran 5 times 
+
+Compiled Successfully.
